@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "520856570844",
+    "firebase_url": "https://mtrdishub.firebaseio.com",
+    "project_id": "mtrdishub",
+    "storage_bucket": "mtrdishub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520856570844:android:535ba43e5aa54af2",
+        "android_client_info": {
+          "package_name": "aip.multi.mtrdishub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520856570844-h96kfld4q87l1qnt37td9js7b2jb8re0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "aip.multi.mtrdishub",
+            "certificate_hash": "b2ab3c6acd32e0e2dea4c4b17fe29531684064e7"
+          }
+        },
+        {
+          "client_id": "520856570844-t42bo46t65j8qgt4beo49ugp6lpd53c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUcR7qmfgel-OfFo827Uj9yit8CnHt-k4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520856570844-t42bo46t65j8qgt4beo49ugp6lpd53c9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
